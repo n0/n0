@@ -1,7 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/05d0be98-863a-415b-a945-70b1f35d69f4.svg)](https://wakatime.com/@05d0be98-863a-415b-a945-70b1f35d69f4) ![](https://komarev.com/ghpvc/?username=n0&color=blue&style=flat&label=profile+views)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
 ```text
 🌞 Morning                137 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
