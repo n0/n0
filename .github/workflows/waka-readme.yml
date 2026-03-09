@@ -81,7 +81,12 @@ jobs:
               if r.status_code != 200:
                   return 0
               data = r.json().get("data", {})
-              return data.get("total_lines_written", 0)
+              return (
+                  data.get("human_additions", 0)
+                  + data.get("human_deletions", 0)
+                  + data.get("ai_additions", 0)
+                  + data.get("ai_deletions", 0)
+              )
 
           # --- Format numbers ---
           def fmt(n):
