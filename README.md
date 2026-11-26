@@ -1,3 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/05d0be98-863a-415b-a945-70b1f35d69f4.svg)](https://wakatime.com/@jam) [![](https://img.shields.io/badge/commits-12,784-blue?style=flat)](https://wakatime.com/@jam) [![](https://komarev.com/ghpvc/?username=n0&color=blue&style=flat&label=profile+views)](https://wakatime.com/@jam)
+[![wakatime](https://wakatime.com/badge/user/05d0be98-863a-415b-a945-70b1f35d69f4.svg)](https://wakatime.com/@jam) [![](https://img.shields.io/badge/commits-12,873-blue?style=flat)](https://wakatime.com/@jam) [![](https://komarev.com/ghpvc/?username=n0&color=blue&style=flat&label=profile+views)](https://wakatime.com/@jam)
 
 Real Artists Ship
